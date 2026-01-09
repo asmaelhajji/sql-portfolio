@@ -15,4 +15,4 @@ Ich erstelle saubere SQL-Abfragen und Reports für Geschäftsanalysen.
 - CASE WHEN
 - Reporting & Auswertung
 
-📫 Kontakt: (später E-Mail oder LinkedIn)
+📫 Kontakt: https://www.linkedin.com/in/asma-elhajji-157ba5258/
