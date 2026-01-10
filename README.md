@@ -1,26 +1,36 @@
 # SQL Portfolio – asmaelhajji
 
-Ich erstelle praxisnahe SQL-Abfragen und Reports für Geschäftsanalysen.  
-Die Projekte in diesem Portfolio zeigen mein Können in Datenanalyse, Reporting und Umgang mit relationalen Datenbanken.
+Ich erstelle praxisnahe SQL-Abfragen und Reports für Geschäfts- und Datenanalysen.  
+Die Projekte in diesem Portfolio demonstrieren meine Fähigkeiten in Datenanalyse, strukturiertem Reporting und im Umgang mit relationalen Datenbanken.
 
 ---
 
-## Projekte im Portfolio
+## Projekte
 
-### 1. Umsatzanalyse
-**Ziel:** Analyse der Umsatzentwicklung über Monate und der umsatzstärksten Produkte.  
-**Was gezeigt wird:** Umsatz pro Monat, Top-5 Produkte, Durchschnittlicher Bestellwert.  
-**SQL-Konzepte:** JOINs, GROUP BY, Aggregationen  
+### Umsatzanalyse
+Analyse der monatlichen Umsatzentwicklung und der umsatzstärksten Produkte.  
+**Schwerpunkte:** Umsatz pro Monat, Top-Produkte, durchschnittlicher Bestellwert  
+**SQL-Konzepte:** JOINs, GROUP BY, Aggregationen
 
-### 2. Kundenanalyse
-**Ziel:** Identifikation aktiver und inaktiver Kunden zur Optimierung von Marketingmaßnahmen.  
-**Was gezeigt wird:** Letztes Bestelldatum pro Kunde, Aktiv-/Inaktiv-Klassifizierung.  
-**SQL-Konzepte:** JOINs, Aggregationen, CASE WHEN, GROUP BY  
+### Kundenanalyse
+Analyse von Kundenaktivität zur Unterscheidung aktiver und inaktiver Kunden.  
+**Schwerpunkte:** Letztes Bestelldatum, Kundenstatus  
+**SQL-Konzepte:** JOINs, CASE WHEN, Aggregationen
 
-### 3. Personalreport
-**Ziel:** Analyse der Mitarbeiterzahl und Durchschnittsgehälter pro Abteilung.  
-**Was gezeigt wird:** Mitarbeiteranzahl, Durchschnittsgehalt, Filterung nach Abteilungsgröße.  
-**SQL-Konzepte:** GROUP BY, Aggregationen, HAVING  
+### Personalreport
+Auswertung von Mitarbeiterzahlen und Durchschnittsgehältern pro Abteilung.  
+**Schwerpunkte:** Personalstruktur, Abteilungsvergleiche  
+**SQL-Konzepte:** GROUP BY, HAVING, Aggregationen
+
+### Gesundheitsreport
+Analyse von Patientenzahlen, Aufenthaltsdauer und Stationsauslastung (fiktive Daten).  
+**Schwerpunkte:** Kapazitäts- und Personalplanung  
+**SQL-Konzepte:** Datumsfunktionen, GROUP BY, CASE WHEN
+
+---
+
+## Ziel dieses Portfolios
+Dieses Portfolio dient als Arbeitsprobe für Nebenjobs, Werkstudententätigkeiten oder projektbasierte Tätigkeiten im Bereich SQL-Datenanalyse und Reporting.
 
 ---
 
@@ -29,4 +39,4 @@ Die Projekte in diesem Portfolio zeigen mein Können in Datenanalyse, Reporting 
 📫 E-Mail: asmaelhajji053@gmail.com
 ---
 
-*Hinweis:* Alle Projekte verwenden fiktive oder Beispiel-Daten. Sie dienen der Demonstration praktischer SQL-Fähigkeiten.
+*Hinweis:* Alle Projekte verwenden fiktive oder Beispiel-Daten.
